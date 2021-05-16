@@ -1,2 +1,3 @@
-latihan menggunakan github
-tambah paragraf
+list fitur yang dibutuhkan
+
+scan barcode mobile
